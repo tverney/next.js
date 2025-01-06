@@ -9,7 +9,7 @@
     "export": "cross-env NEXT_EXPORT=true next build && cross-env NEXT_EXPORT=true next export"
   },
   "dependencies": {
-    "next": "canary",
+    "next": "15.1.2",
     "next-offline": "4.0.6",
     "react": "16.12.0",
     "react-dom": "16.12.0"
